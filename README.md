@@ -23,15 +23,6 @@
 
 ---
 
-### 🌟 **Projets en vedette**  
-🔹 **[Nom du projet 1](Lien_GitHub)** : *Brève description du projet*  
-🔹 **[Nom du projet 2](Lien_GitHub)** : *Brève description du projet*  
-🔹 **[Nom du projet 3](Lien_GitHub)** : *Brève description du projet*  
-
-📌 **Découvre tous mes projets ici** : [Lien vers tes repos](https://github.com/TonPseudo?tab=repositories)  
-
----
-
 ### 🤝 **Me retrouver sur**  
 📌 **LinkedIn** :  https://www.linkedin.com/in/alexis-hazebrouck-3b7a7a296/
 📌 **Portfolio** : En cours
