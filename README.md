@@ -26,7 +26,6 @@
 ### 🤝 **Me retrouver sur**  
 📌 **LinkedIn** :  https://www.linkedin.com/in/alexis-hazebrouck-3b7a7a296/
 📌 **Portfolio** : En cours
-📌 **Twitter/X** : [@TonPseudo](https://twitter.com/TonPseudo)  
 
 ---
 
