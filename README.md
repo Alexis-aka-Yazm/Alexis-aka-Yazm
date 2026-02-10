@@ -1,4 +1,4 @@
-### **Salut 👋, moi c'est Alexis** 
+### **Salut CHOOM, moi c'est Alexis** 
 
 ### 🚀 **À propos de moi**  
 💡 **Qui suis-je ?**  
